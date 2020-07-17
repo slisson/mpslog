@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<model ref="r:57324fcf-7ad0-4b50-aa59-7ac8e502edb2(main@generator)">
+<model ref="r:a3240c88-ccdd-4fc0-8aa3-24983b7ccc86(de.q60.mpslog.transformation.generator.template.main@generator)">
   <persistence version="9" />
   <languages>
+    <use id="067bef66-5a2c-412d-b99e-da1463a380e1" name="de.q60.mps.delta.transformation" version="-1" />
     <devkit ref="a2eb3a43-fcc2-4200-80dc-c60110c4862d(jetbrains.mps.devkit.templates)" />
   </languages>
-  <imports>
-    <import index="qdc2" ref="r:a0e6fd46-d0d0-4a82-a064-20772089b9b1(test.de.q60.mpslog.entities.structure)" />
-  </imports>
+  <imports />
   <registry>
     <language id="b401a680-8325-4110-8fd3-84331ff25bef" name="jetbrains.mps.lang.generator">
       <concept id="1095416546421" name="jetbrains.mps.lang.generator.structure.MappingConfiguration" flags="ig" index="bUwia" />
@@ -17,7 +16,7 @@
       </concept>
     </language>
   </registry>
-  <node concept="bUwia" id="4_sn_QGo7Oy">
+  <node concept="bUwia" id="6llN11I6Z6M">
     <property role="TrG5h" value="main" />
   </node>
 </model>
