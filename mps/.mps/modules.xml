@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MPSProject">
+    <projectModules>
+      <modulePath path="$PROJECT_DIR$/de.q60.delta.mpslog/de.q60.delta.mpslog.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/de.q60.delta.scopes.runtime/de.q60.delta.scopes.runtime.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/de.q60.delta.scopes.sandbox/de.q60.delta.scopes.sandbox.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/de.q60.delta.scopes.sandboxlang/de.q60.delta.scopes.sandboxlang.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/de.q60.delta.scopes/de.q60.delta.scopes.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/de.q60.mps.delta.patterns/de.q60.mps.delta.patterns.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/de.q60.mps.delta.transformation/de.q60.mps.delta.transformation.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/de.q60.mps.delta.unification.runtime/de.q60.delta.mpslog.runtime.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/de.q60.mps.delta.unification.test.entities/test.de.q60.delta.mpslog.entities.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/de.q60.mpslog.devkit/de.q60.mpslog.devkit.devkit" folder="" />
+      <modulePath path="$PROJECT_DIR$/test.de.q60.delta.mpslog/test.de.q60.delta.mpslog.msd" folder="" />
+    </projectModules>
+  </component>
+</project>
